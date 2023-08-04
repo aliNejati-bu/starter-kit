@@ -94,7 +94,6 @@
     "express": "^4.18.2",
     "helmet": "^7.0.0",
     "morgan": "^1.10.0",
-    "recoil": "^0.7.7",
     "winston": "^3.10.0"
   },
   "engines": {
